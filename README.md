@@ -44,9 +44,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPauloPinheiroM/JoaoPauloPinheiroM/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoPauloPinheiroM/JoaoPauloPinheiroM/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
-### Visitor count:
-
-<p align="left"> <img src="https://profile-counter.glitch.me/JoaoPauloPinheiroM/count.svg" alt="Profile views" /> </p>
 
 ✨ *"Sempre em busca de evolução e novos desafios."*
+### Contador de visitantes:
+<p align="left"> <img src="https://profile-counter.glitch.me/JoaoPauloPinheiroM/count.svg" alt="Profile views" /> </p>
