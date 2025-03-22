@@ -1,5 +1,11 @@
 
-# 🖖 Olá!!! Eu sou o João Paulo Pinheiro e este é o meu GitHub
+<img align="right" alt="" height="300px" src="./me.png">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+o+João+Paulo!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+
+* I'm Csharp Developer 
+* Constantly trying to be better than before. 🧠
+* Studying Software Engginer  at Uninter University. 👨‍🎓
 
 <div align="center">
   <a href="https://github.com/JoaoPauloPinheiroM">
@@ -8,7 +14,7 @@
   </a>
 </div>
 
----
+
 
 ### 🚀 Tecnologias que domino:
 
@@ -20,7 +26,7 @@
   <img align="center" alt="Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
----
+
 
 ### 📫 Onde me encontrar:
 
@@ -29,10 +35,13 @@
   <a href="mailto:joaopaulopinheiro59675@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joaopaulopinheiromourao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <div style="width: 5px; height: 5px; overflow: hidden; border: 2px solid #fff; border-radius: 1px;">
-    <img aling="right" alt="JoaoDev" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFrYTU2cGRibTZ2dXdvcHptbm5wdXU1dmJrcmtheGZxenN4YjAzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yno2M5D4nooL6gpHrd/giphy.gif" width="15%" height="15%" />
+    <img aling="left" alt="JoaoDev" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFrYTU2cGRibTZ2dXdvcHptbm5wdXU1dmJrcmtheGZxenN4YjAzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yno2M5D4nooL6gpHrd/giphy.gif" width="15%" height="15%" />
   </div>
 </div>
 
----
+
+### Visitor count:
+
+<p align="left"> <img src="https://profile-counter.glitch.me/JoaoPauloPinheiroM/count.svg" alt="Profile views" /> </p>
 
 ✨ *"Sempre em busca de evolução e novos desafios."*
