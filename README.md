@@ -5,7 +5,7 @@
 
 * I'm Csharp Developer 
 * Constantly trying to be better than before. 🧠
-* Studying Software Engginer  at Uninter University. 👨‍🎓
+* Studying Software Engineering  at Uninter University. 👨‍🎓
 
 <div align="center">
   <a href="https://github.com/JoaoPauloPinheiroM">
