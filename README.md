@@ -35,8 +35,6 @@
   <a href="mailto:joaopaulopinheiro59675@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joaopaulopinheiromourao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <div style="width: 5px; height: 5px; overflow: hidden; border: 2px solid #fff; border-radius: 1px;">
-    <img aling="left" alt="JoaoDev" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFrYTU2cGRibTZ2dXdvcHptbm5wdXU1dmJrcmtheGZxenN4YjAzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yno2M5D4nooL6gpHrd/giphy.gif" width="15%" height="15%" />
-  </div>
 </div>
 
 <picture>
