@@ -7,12 +7,7 @@
 * Constantly trying to be better than before. 🧠
 * Studying Software Engineering  at Uninter University. 👨‍🎓
 
-<div align="center">
-  <a href="https://github.com/JoaoPauloPinheiroM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloPinheiroM&show_icons=true&theme=monokai&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloPinheiroM&layout=compact&theme=monokai&hide_border=true"/>
-  </a>
-</div>
+
 
 
 
